@@ -1,0 +1,2 @@
+Hello. 
+My name is Viktor and I just started The Odin Project. 
